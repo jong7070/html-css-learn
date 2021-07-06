@@ -1,0 +1,14 @@
+.screen-header__icons {
+  position: relative;
+}
+
+.point {
+  background-color: tomato;
+  width: 4px;
+  height: 4px;
+  border-radius: 3px;
+  display: flex;
+  position: absolute;
+  left: 72px;
+  bottom: 19px;
+}
